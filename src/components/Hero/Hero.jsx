@@ -8,10 +8,10 @@ const Hero = () => {
     <section id="home" className={styles.hero}>
       <div className={styles.container}>
         <div className={styles.text}>
-          <p className={styles.greeting}>Hi, my name is</p>
-          <h1>Your Name</h1>
+          <p className={styles.greeting}>Hi, my name is Pornwadee</p>
+          <h1>Pornwadee</h1>
           <h2>
-            I'm a{" "}
+            I'm a{"database "}
             <TypeAnimation
               sequence={[
                 "Frontend Developer",
@@ -56,7 +56,7 @@ const Hero = () => {
           glareMaxOpacity={0.2}
         >
           <img
-            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?w=500&h=500&fit=crop"
+            src="https://i.pinimg.com/564x/4d/c3/54/4dc354bf6bd38fb2bcc57c9f77194172.jpg"
             alt="Profile"
             className={styles.image}
           />
